@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SharedPreferences_Guia7</string>
+
+    <string name="miNombre">Liset Maricela Saldaña Martinez</string>
+    <string name="code">SM18-I04-001</string>
+
+    <string name="msgCancel" translatable="false">Limpiar</string>
+    <string name="conditions" translatable="false">Acepto los términos y condiciones.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LOGIN">LOGIN</string>
+
+    <string name="listo">HECHO</string>
+    <string name="adivina">ADIVINA EL NUMERO</string>
+    <string name="intento">Numero de intentos permitidos:</string>
+    <string name="ingresa">Ingresa un número del 1 al 10</string>
+    <string name="usuario">Usuario:</string>
+
+    <string name="puntos">PUNTUACION</string>
+    <string name="puntosActuales">Puntaje Actual: 0</string>
+    <string name="puntosacumulados">puntaje acumulado: 0</string>
+    <string name="verpuntos">ver puntuacion</string>
+
+    <string name="pista">PISTA</string>
+    <string name="respcorrecta">Respuesta correcta</string>
+    <string name="resp">Respuesta</string>
+
+</resources>
